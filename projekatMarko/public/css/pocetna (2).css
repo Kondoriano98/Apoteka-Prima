@@ -1,0 +1,56 @@
+body
+{
+    background-image: url(../images/lek1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.navbar
+{
+    
+opacity: 0.7;
+}
+
+.card
+{
+    background-color: black;
+    opacity: 0.7;
+    color:white;
+}
+
+.form
+{
+    background-color: black;
+    opacity: 0.7;
+    color:white;
+}
+footer
+{
+    opacity:0.7;
+    color:white;
+}
+#karta
+{
+	border:3px solid black;
+	opacity: 0.8;
+	text-align: center;
+	font-size: 15px;
+    font-family: Helvetica;
+    background-color:black;
+}
+
+#body1
+{
+    background-image: url(../images/logreg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#body2
+{
+    background-image: url(../images/medicine.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ 
